@@ -1,0 +1,2 @@
+-- Archivo obsoleto: usar create_all_tables.php
+-- Este SQL fue consolidado en create_all_tables.php y ya no debe ejecutarse por separado.
