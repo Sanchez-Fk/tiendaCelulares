@@ -39,7 +39,6 @@ Sitio web para venta de dispositivos móviles desarrollado con PHP, MySQL, HTML,
 ## Estructura del Proyecto
 
 ```
-IA/
 ├── admin/              # Panel de administración
 ├── assets/
 │   ├── css/           # Estilos
@@ -83,6 +82,7 @@ IA/
 - El carrito se guarda en la base de datos y está asociado a cada usuario
 - Los contactos se guardan en `data/contactos.txt`
 - Las imágenes se suben a `assets/img/`
+
 
 
 
